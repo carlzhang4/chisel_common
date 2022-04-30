@@ -1,0 +1,9 @@
+[submodule "qdma"]
+	path = qdma
+	url = git@github.com:carlzhang4/qdma.git
+[submodule "common"]
+	path = common
+	url = git@github.com:carlzhang4/common.git
+[submodule "smart_db"]
+	path = smart_db
+	url = git@github.com:carlzhang4/smart_db.git
